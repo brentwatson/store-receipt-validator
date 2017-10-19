@@ -27,7 +27,7 @@
   ],
   "require": {
     "php": ">=5.5",
-    "guzzlehttp/guzzle": "^3.9",
+    "guzzle/guzzle": "^3.9",
     "nesbot/carbon": "~1",
     "google/apiclient": "~2.0",
     "robrichards/xmlseclibs": "^2.0"
